@@ -1,1 +1,1 @@
-# BI
+# Project of Business Inteligence
