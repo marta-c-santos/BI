@@ -23,11 +23,11 @@ with total = 2245
 
 ## average age 
 
-[0] 38.2
+[0] 38.2 years old
 
-[1] 43.7
+[1] 43.7 years old
 
-[2] 43.7
+[2] 43.7 years old
 
 
 ## average spending 
