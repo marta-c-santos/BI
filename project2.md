@@ -57,9 +57,41 @@ with total = 2245
 [2] 217F, 188M, 96N
 
 
+## average number of transactions
 
-  0 - Female
-  1 - Male
-  2 - N
+[0] 9.2 transactions
 
- [0] , [1] , [2]
+[1] 8.3 transactions
+
+[2] 13.5 transactions
+
+
+## Average for how long the customer is a customer
+
+[0] 434.4 days
+
+[1] 434.6 days
+
+[2] 434.2 days
+
+
+## Average price per trasaction
+
+[0] 4.47
+
+[1] 4.68
+
+[2] 4.61
+
+
+
+ 
+[0]
+
+[1]
+
+[2]
+
+ 
+ 
+ 
