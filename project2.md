@@ -12,9 +12,9 @@ We have:
 ---
 ## amount of people in each cluster 
 
-[0] 800 [36%]
+[0] 944 [42%]
 
-[1] 944 [42%]
+[1] 800 [36%]
 
 [2] 501 [22%]
 
@@ -23,7 +23,7 @@ with total = 2245
 
 ## average age 
 
-[0] 38.2 years old
+[0] 40.4 years old
 
 [1] 43.7 years old
 
@@ -32,11 +32,11 @@ with total = 2245
 
 ## average spending 
 
-[0] 42.3$
+[0] 71.4$
 
 [1] 48.2$
 
-[2] 71.4$
+[2] 42.3$
 
 
 ## most common store
@@ -59,11 +59,11 @@ with total = 2245
 
 ## average number of transactions
 
-[0] 9.2 transactions
+[0] 15.4 transactions
 
-[1] 8.3 transactions
+[1] 10.7 transactions
 
-[2] 13.5 transactions
+[2] 9.1 transactions
 
 
 ## Average for how long the customer is a customer
@@ -87,18 +87,18 @@ with total = 2245
 ---
 ## Filter by cluster for customer with a bigger spending than the average for each cluster
 
-[0] 347 (43% of cluster 0 - 800)
+[0] 434 (46% of cluster 0 - 944)
 
-[1] 434 (46% of cluster 1 - 944)
+[1] 347 (43% of cluster 1 - 800)
 
 [2] 228 (45% of cluster 2 - 501)
 
 
 ## Filter to separate the customer by gender
 
-[0] 176F, 134M, 46N
+[0] 167F, 112M, 155N
 
-[1] 167F, 155M, 112N
+[1] 176F, 134M, 46N
 
 [2] 94F, 85M, 49N
 
@@ -109,9 +109,23 @@ with total = 2245
 
 |   | 18 - 29 | 30 - 44 | 45 - 64 | 65+ |
 |---|---|---|---|---|
+| Female | 44 | 49 | 60 | 14 |
+| Male | 21 | 34 | 50 | 7 |
+| N | 82 | 73 | 0 | 0 |
+
+|   | 18 - 29 | 30 - 39 | 40 - 49 | 50 - 59 | 60+ |
+|---|---|---|---|---|---|
+| Female | 44 | 30 | 32 | 33 | 28 |
+| Male | 21 | 22 | 25 | 31 | 13 |
+| N | 82 | 73 | 0 | 0 | 0 |
+
+[Cluster 1]
+
+|   | 18 - 29 | 30 - 44 | 45 - 64 | 65+ |
+|---|---|---|---|---|
 | Female | 43 | 52 | 57 | 24 |
 | Male | 26 | 38 | 58 | 12 |
-| N | 9 | 14 | 9 | 4 |
+| N | 9 | 14 | 19 | 4 |
 
 |   | 18 - 29 | 30 - 39 | 40 - 49 | 50 - 59 | 60+ |
 |---|---|---|---|---|---|
@@ -119,9 +133,17 @@ with total = 2245
 | Male | 26 | 25 | 26 | 29 | 28 |
 | N | 9 | 9 | 8 | 13 | 7 |
 
-[1] 167F, 155M, 112N
+[Cluster 2]
+ 
+ |   | 18 - 29 | 30 - 44 | 45 - 64 | 65+ |
+|---|---|---|---|---|
+| Female | 21 | 30 | 35 | 8 |
+| Male | 21 | 21 | 32 | 11 |
+| N | 47 | 2 | 0 | 0 |
 
-[2] 94F, 85M, 49N
- 
- 
+|   | 18 - 29 | 30 - 39 | 40 - 49 | 50 - 59 | 60+ |
+|---|---|---|---|---|---|
+| Female | 21 | 20 | 15 | 20 | 18 |
+| Male | 21 | 18 | 10 | 17 | 19 |
+| N | 47 | 2 | 0 | 0 | 0 |
  
