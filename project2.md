@@ -147,3 +147,13 @@ with total = 2245
 | Male | 21 | 18 | 10 | 17 | 19 |
 | N | 47 | 2 | 0 | 0 | 0 |
  
+ 
+## Filter for spending per group age
+
+| Cluster | Youth | Adult | Senior |
+|---|---|---|---|
+| 0 | 78 | 215 | 69 |
+| 1 | 89 | 107 | 37 |
+| 2 | 147 | 249 | 41 |
+
+
